@@ -1,0 +1,16 @@
+.icon__info {
+  font-size: 2rem;
+  color: #A8DADC;
+  transition: .1s ease;
+  cursor: pointer;
+  padding: 1rem 2rem;
+  box-sizing: border-box;
+  position: absolute;
+  right: 0;
+  top: 0;
+
+  &:hover {
+    color: #1D3557;
+    font-size: 3rem;
+  }
+}
